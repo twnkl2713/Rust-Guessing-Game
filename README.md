@@ -1,1 +1,1 @@
-# Rust-Mini-Games
+# Rust-Guessing-Game
